@@ -15,5 +15,3 @@ def select_winner(passengers)
   end
   winner
 end
-  # add the code snippet here!
-end
